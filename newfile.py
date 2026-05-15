@@ -82,4 +82,4 @@ async def leave(ctx):
         await ctx.send("I am not in a voice channel.")
 
 # 6. Run the Bot
-bot.run('MTUwNDczNDc5MjkxNzMxOTcyMQ.G6dSWP.6jKTpvJjmVMlpK-3Kyg0ukhg0vygBOt9xKOoRI')
+bot.run('MTUwNDczNDc5MjkxNzMxOTcyMQ.GuUxkN.uRX5UMOs8KejIB07euz1T2SzTCqGjBQreU6tI4')
